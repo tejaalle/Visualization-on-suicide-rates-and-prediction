@@ -1,4 +1,3 @@
-# Author: name (banner no) <@dal.ca>
 # File: This will return all the visualization in tab for Continents.
 
 # imports

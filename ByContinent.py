@@ -1,4 +1,3 @@
-# Author: Krutin Trivedi (kr650539) <krutin@dal.ca>
 # File: This will return all the visualization in tab for Continents.
 
 # imports
